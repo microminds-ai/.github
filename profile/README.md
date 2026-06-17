@@ -61,7 +61,7 @@ mvn spring-boot:run
 
 ## 📬 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/kuldeepsingh-enginer)
+- 💼 [LinkedIn](https://linkedin.com/in/kuldeepsingh-engineer)
 - 🐙 [GitHub](https://github.com/kuldeepsingh123)
 - 📧 Open an issue on any repo for questions or collaboration
 
