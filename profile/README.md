@@ -61,10 +61,9 @@ mvn spring-boot:run
 
 ## 📬 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/kuldeepsingh-engineer)
-- 🐙 [GitHub](https://github.com/kuldeepsingh123)
-- 🚀 [TradeMesh-AI](https://github.com/trade-mesh-ai)
-Building an AI-powered algorithmic trading platform with Java, Spring Boot, WebFlux, PostgreSQL, Redis, and Zerodha Kite Connect.
+- 💼 LinkedIn: https://linkedin.com/in/kuldeepsingh-engineer
+- 🐙 GitHub: https://github.com/kuldeepsingh123
+- 🚀 TradeMesh-AI: https://github.com/trade-mesh-ai
 
 ## 🤝 Collaboration
 
