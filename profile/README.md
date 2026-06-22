@@ -67,8 +67,6 @@ mvn spring-boot:run
 
 ## 🤝 Collaboration
 
-Interested in algorithmic trading, backend engineering, distributed systems, or AI-powered trading infrastructure?
-
 Feel free to open an issue or start a discussion in any repository.
 
 ---
